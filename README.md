@@ -1,2 +1,2 @@
 # SinenkoRoman.github.io
-Сайт - резюме
+«Сайт визитка HTML, CSS».
